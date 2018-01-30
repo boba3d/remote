@@ -1,0 +1,17 @@
+commit c171c1bd8f0a9e7699a925bf7fc7a1ef1dba52dd
+Author: marsol DAman <Marsol Daman>
+Date:   Mon Jan 29 19:18:36 2018 -0500
+
+    Added proper implementation of the java file
+
+commit b2375a1feeee68e915441e83fe94bff3e7b0761d
+Author: marsol DAman <Marsol Daman>
+Date:   Mon Jan 29 19:11:15 2018 -0500
+
+    Added empty Main and ninety nine bottles function to new java file
+
+commit 8172b719694a74c6ce7211b4b570d822918eeeb8
+Author: marsol DAman <Marsol Daman>
+Date:   Mon Jan 29 19:05:11 2018 -0500
+
+    added readme to the branch
